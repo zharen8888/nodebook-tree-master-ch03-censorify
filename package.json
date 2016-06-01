@@ -1,0 +1,10 @@
+{
+   "author" : "zhang",
+   "name"   : "censortify",
+   "version": "0.1.1",
+   "main"   : "censortext",
+   "dependencies" : {},
+   "engines" : {
+       "node" : "*"
+  }
+}
